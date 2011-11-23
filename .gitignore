@@ -7,6 +7,7 @@ sites/*/settings*.php
 sites/*/private
 
 # Ignore cache files
+sites/*/files
 sites/default/files/css*
 sites/default/files/js*
 
