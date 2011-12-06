@@ -88,7 +88,7 @@
  *   $db_url = 'mysqli://username:password@localhost/databasename';
  *   $db_url = 'pgsql://username:password@localhost/databasename';
  */
-$db_url = 'mysqli://upg_drupal:sql5Serv@localhost/upg_website';
+$db_url = 'mysqli://drupal:sql5Serv@localhost/mangrove';
 $db_prefix = '';
 
 /**
